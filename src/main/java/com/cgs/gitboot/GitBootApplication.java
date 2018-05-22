@@ -10,5 +10,5 @@ public class GitBootApplication {
 		SpringApplication.run(GitBootApplication.class, args);
         System.out.println("hello world");
 		System.out.println("welcome");
-		System.out.println("select");
+		System.out.println("select");;
 }
