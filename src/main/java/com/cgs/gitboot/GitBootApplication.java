@@ -10,5 +10,9 @@ public class GitBootApplication {
 		SpringApplication.run(GitBootApplication.class, args);
         System.out.println("hello world");
 		System.out.println("welcome");
+<<<<<<< HEAD
 	System.out.println("join");
+=======
+		System.out.println("select");;
+>>>>>>> 88b432f4692f2f982bb60d2deab0aa2ab01ee243
 }
